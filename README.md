@@ -26,5 +26,5 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=improved-sleepyhead&theme=transparent&card_width=400" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=improved-sleepyhead&show_icons=true&theme=github_dark&locale=en&layout=compact&card_width=300" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=improved-sleepyhead&show_icons=true&theme=holi&locale=en&layout=compact&card_width=300" alt="Most Used Languages" />
 </div>
