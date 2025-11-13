@@ -20,16 +20,20 @@
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kafka" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nestjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rabbitMQ" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
 
     
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; align-items: stretch;">
-<img src="https://github-readme-stats.vercel.app/api?username=improved-sleepyhead&show_icons=true&theme=github_dark&locale=en&card_width=400" 
-         alt="GitHub Stats" 
-         style="width: 400px;" />
-    
-<img src="https://github-readme-streak-stats-rho-two.vercel.app/?user=improved-sleepyhead&theme=github-dark-blue&card_width=400" 
-         alt="GitHub Streak" 
-         style="width: 400px;" />
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=improved-sleepyhead&show_icons=true&theme=holi&locale=en&layout=compact&card_width=820" 
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; width: 100%;">
+        <img src="https://github-readme-stats.vercel.app/api?username=improved-sleepyhead&show_icons=true&theme=github_dark&locale=en" 
+             alt="GitHub Stats" 
+             style="width: 300px; flex-shrink: 0;" />
+        
+<img src="https://github-readme-streak-stats-rho-two.vercel.app/?user=improved-sleepyhead&theme=github-dark-blue" 
+             alt="GitHub Streak" 
+             style="width: 300px; flex-shrink: 0;" />
+    </div>
+    
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=improved-sleepyhead&show_icons=true&theme=holi&locale=en&layout=compact" 
          alt="Most Used Languages" 
-         style="width: 100%; grid-column: 1 / -1;" />
+         style="width: 620px; max-width: 100%;" />
 </div>
