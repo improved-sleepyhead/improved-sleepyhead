@@ -21,10 +21,10 @@
 
     
 <div style="display: flex; gap: 20px; align-items: stretch; flex-wrap: wrap; justify-content: center;">
-<img src="https://github-readme-stats.vercel.app/api?username=improved-sleepyhead&show_icons=true&theme=dark&locale=en&card_width=400" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=improved-sleepyhead&show_icons=true&theme=material-palenight&locale=en&card_width=400" alt="GitHub Stats" />
     
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=improved-sleepyhead&theme=dark&card_width=400" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=improved-sleepyhead&theme=material-palenight&card_width=400" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=improved-sleepyhead&show_icons=true&theme=dark&locale=en&layout=compact&card_width=300" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=improved-sleepyhead&show_icons=true&theme=material-palenight&locale=en&layout=compact&card_width=300" alt="Most Used Languages" />
 </div>
