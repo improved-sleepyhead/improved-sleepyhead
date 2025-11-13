@@ -2,8 +2,6 @@
 
 ### A responsible and proactive developer from Russia
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=improved-sleepyhead&label=Profile views&color=0e75b6&style=flat" alt="improved-sleepyhead" /> </p>
-
 - 🌱 I'm currently learning **TypeScript, Next.js, Nest.js, pSQL, Flutter**
 
 - 💬 Ask me about **React, Next.js, Node.js, Nest.js**
