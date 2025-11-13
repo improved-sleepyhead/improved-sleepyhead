@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **TypeScript, Next.js, Nest.js, pSQL, Flutter**
 
-- 👨‍💻 All of my projects are available at [this github profile](this github profile)
+- 👨‍💻 All of my projects are available at this github profile
 
 - 💬 Ask me about **React, Next.js, Node.js, Nest.js**
 
 - 📫 How to reach me **telegram: @improved-sleepyhead**
 
-- 📄 Know about my experiences [ping me in telegram for more information](ping me in telegram for more information)
+- 📄 Ping me in telegram to know about my experiences 
 
 - ⚡ Fun fact **addicted to hyprland rices**
 
