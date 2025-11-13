@@ -23,11 +23,11 @@
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; align-items: stretch;">
 <img src="https://github-readme-stats.vercel.app/api?username=improved-sleepyhead&show_icons=true&theme=github_dark&locale=en&card_width=400" 
          alt="GitHub Stats" 
-         style="width: 100%;" />
+         style="width: 50%;" />
     
 <img src="https://github-readme-streak-stats-rho-two.vercel.app/?user=improved-sleepyhead&theme=github-dark-blue&card_width=400" 
          alt="GitHub Streak" 
-         style="width: 100%;" />
+         style="width: 500%;" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=improved-sleepyhead&show_icons=true&theme=holi&locale=en&layout=compact&card_width=820" 
          alt="Most Used Languages" 
