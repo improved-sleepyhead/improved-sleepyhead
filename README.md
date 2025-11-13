@@ -27,7 +27,7 @@
     
 <img src="https://github-readme-streak-stats-rho-two.vercel.app/?user=improved-sleepyhead&theme=github-dark-blue&card_width=400" 
          alt="GitHub Streak" 
-         style="width: 500%;" />
+         style="width: 50%;" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=improved-sleepyhead&show_icons=true&theme=holi&locale=en&layout=compact&card_width=820" 
          alt="Most Used Languages" 
