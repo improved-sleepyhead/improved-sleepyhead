@@ -21,7 +21,7 @@
 
     
 <div style="display: flex; gap: 20px; align-items: stretch; flex-wrap: wrap; justify-content: center;">
-<img src="https://github-readme-stats.vercel.app/api?username=improved-sleepyhead&show_icons=true&theme=github_dark&locale=en&card_width=400" alt="GitHub Stats" />
+<img src="https://github-readme-stats-one-theta-56.vercel.app/api?username=improved-sleepyhead&show_icons=true&theme=github_dark&locale=en&card_width=400" alt="GitHub Stats" />
     
 
 <img src="https://github-readme-streak-stats-rho-two.vercel.app/?user=improved-sleepyhead&theme=github-dark-blue&card_width=400" alt="GitHub Streak" />
