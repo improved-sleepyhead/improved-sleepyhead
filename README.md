@@ -2,7 +2,7 @@
 
 ### A responsible and proactive developer from Russia
 
-- 🌱 I'm currently learning **TypeScript, Next.js, Nest.js, pSQL, Flutter**
+- 🌱 I'm currently learning **TypeScript, Next.js, Nest.js, pSQL**
 
 - 💬 Ask me about **React, Next.js, Node.js, Nest.js**
 
