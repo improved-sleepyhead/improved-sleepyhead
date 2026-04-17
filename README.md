@@ -12,13 +12,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/improved-sleepyhead" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="improved-sleepyhead" height="30" width="40" /></a><a href="https://discord.gg/@sleepymeatball" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@sleepymeatball" height="30" width="40" /></a></p>
+<a href="https://github.com/improved-sleepyhead" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="improved-sleepyhead" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,css,docker,express,flutter,git,html,js,kafka,linux,nestjs,nextjs,nodejs,postgres,rabbitmq,react,redis,tailwind,ts&perline=10" />
+    <img src="https://skillicons.dev/icons?i=bash,css,docker,express,flutter,git,html,js,kafka,linux,nestjs,nextjs,nodejs,postgres,rabbitmq,react,redis,tailwind,ts&perline=20" />
   </a>
 </p>
 
